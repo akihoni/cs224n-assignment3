@@ -1,2 +1,2 @@
 # cs224n-assignment3
-cs224n的第3个assignment
+F1值还是不够好...
